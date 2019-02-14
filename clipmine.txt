@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>ClipMine</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+        .fit { /* set relative picture size */
+                    max-width: 100%;
+                    max-height: 100%;
+                }
+                .centered {
+                      position: absolute;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      }
+  </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div align="left" class="col-xs-4">
+            <img  class=" img-responsive" src="clipmine_logo_beta_226x50.png" alt="clipmine logo">
+            
+        </div>
+        <div align="left" class="col-xs-4">
+        </br>
+                <button type="button" style="background:none; border:none">Home</button>
+                <button type="button"  style="background:none; border:none">Help</button>
+                <button type="button" style="background:none; border:none">Search</button>
+        </div>
+        
+        <div align="right" class="col-xs-4">
+        </br>
+                <button type="button" style="background:none; border:none">Blog</button>
+                <button type="button"  style="background:none; border:none">Login</button>
+                <button type="button" style="background:none; border:none">Sign up</button>
+
+        </div>
+    </br></br></br>
+    
+    </div>
+    
+    <div class="container img-responsive" style="background-image: url('top-section_4360x1500.jpg'); 
+            background-size:cover; background-position:center; max-width:100%;max-height:100%;">
+            <div class="row">
+                </br></br></br></br></br></br></br>
+                </div>
+
+        <h4 align="center" style="color:white">
+               A Better Video Experience For The </br>Web
+        </h4>
+       <p align="center" style="color:white">ClipMine enables bloggers,creators and enthusiasts</br>
+                       to tag content inside online videos and create a</br>
+                       more engaging vido experience.</p>
+        <button type="button" class="btn btn-primary center-block">Sign Up</button>
+        <div class="row">
+               </br></br></br></br></br></br></br>
+
+        </div>
+    </div>
+    
+    
+    <h4 align="center"></br></br> Help your viewers discover what matters most to them!</h4>
+    </br></br></br>
+    
+
+    <div align="center" class="row">
+
+
+            <div class="col-xs-4">
+                    <img  class="img-responsive" src="video-gatesjobs_560x374.png" alt="bill and steve">
+                    <p>@01:59 Hook:Greatest thing about Bill and Steve's</br>Relationship...
+
+                    </p>
+               </div>
+
+         <div class="col-xs-4">
+             <img class="img-responsive" src="video-emma_280x187.png" alt="video-emma">
+             <p>@01:59 Hook:Emma Stone Greatest thing about </br>Bill.......
+
+                </p>
+        </div>
+
+        <div class="col-xs-4">
+                <img  class="img-responsive" src="video-ronconway_280x187.png" alt="pip-boy">
+                <p>@13:34 Real Pip-Boy with 2nd screen experience</br> Emma Stone.....
+
+                    </p>
+           </div>
+
+    </div>
+
+
+        
+    <div  align="center" class="row">
+            <div class="col-sm-12">
+            <p></br></br>ClipMine works great for sharing and embedding recorded video-game sessions,tutorials,product<br/>
+                reviews,talk shows,speaches,lectures and sports coverage.Try out more samples</p>
+  
+             </div>
+        
+
+    </div>
+
+    <div  align="center" class="row">
+            <div class="col-sm-12">
+
+                    <h1 ></br></br>Features</br></br></h1>
+            </div>
+    </div>   
+
+
+    <div  align="center" class="row">
+        <div class="col-sm-4">
+            <img src="index-sharing_300x120.png" alt="index-sharing">
+            <h4 >Meaningful Sharing</h4>
+            <p >ClipMine works great for sharing and embedding<br/>
+                recorded video-game sessions,tutorials,product<br/>
+                reviews,talk shows,speaches,lectures and sports<br/>
+                coverage.Try out more samples</p>
+        </div>
+        <div class="col-sm-4">
+            <img   src="index-embeds_300x120.png" alt="index-embeds">
+            <h4 >Interactive Embeds</h4>
+            <p >Want to enable the ClipMine experience on your blog<br/>
+                or Twitter feed?Just embed our Content-Aware Video<br/>
+                Player.It is responsive and built to work across<br/>
+                different modern browsers and devices.Start by<br/>
+                tagging a video of your choice or pick an already<br/>
+                tagged one and simply paste the embed code into<br/>
+                your website</p>
+        </div>
+        <div class="col-sm-4">
+            <img src="index-tagging_300x120.png" alt="index-tagging">
+            <h4 >Smart Tagging</h4>
+             <p >Found an interesting point in a video?On ClipMine,<br/>
+                adding tags is not reserved for the video owners only<br/>
+                - any community member can do it.In addition our<br/>
+                smart algorithms can autmatically suggest tags(in<br/>
+                private beta) for a wide variety of videos! </p>
+
+        </div>
+    </div>
+    
+
+
+
+    <div align="center" class="row">
+            <div class="col">
+                 <h1 >Benefits</h1>
+            </div>
+    </div>
+    <div  class="row">
+               <div align="right" class="col-xs-4">
+                    <img class="img-responsive" src="index-benefit-personal_166x166.png" alt="index-benefit-personal">
+               </div>
+               
+                <div align="left" class="col-xs-4">
+                <h4>Personalized experience</h4>
+                <p>ClipMine allows your viewres to the video content and see what's inside,through it,and<br/>
+                specific parts of the video they like.</p>
+                </div>
+
+    </div>
+      
+    
+    
+ 
+    <div align="center" class="row">
+                <div  align="right" class="col-xs-4">
+                    <img class="img-responsive" src="index-benefit-engagement_166x166.png" alt="index-benefit-engagement">
+                </div>
+
+                <div  align="left" class="col-xs-4">
+                    <h4>Improved Engagement</h4>
+                    <p>Our customers have seen upto 50% higher engagement and lower early drop-off rates on their</br>
+                    videos when embedded with clipmine. 
+                    </p>
+                </div>
+    </div>
+    
+    <div align="center" class="row">
+              
+                <div  align="right" class="col-xs-4">
+                    <img class="img-responsive" src="index-benefit-analytics_166x166.png" alt="index-benefit-analytics">
+                </div>
+                <div align="left" class="col-xs-4">
+                    <h4>Actionable Analytics</h4>
+                    <p>Our in-video analytics (by invitation only)allow you to understand user engagement in terms</br>
+                        of your content rather than timestamps.You'll exactly know which parts of the video are more</br>
+                        likely to be clicked and how long users stay there. 
+
+                    </p>
+                </div>
+    </div>
+    <div align="center" class="row">
+        <h1></br></br> ClipMine Video Collections</br></br></h1>
+    </div>
+ 
+
+    <div align="center" class="row"> 
+            <div   class="col-xs-6">
+                    <img class="img-responsive" src="collection-ml_461x184.png" alt="collection">
+                    <h3 style="color:white" class="centered">STARTUPS</h3>    
+                </div>
+
+            
+            <div  class="col-xs-6">
+                    <img class="img-responsive" src="collection-startup_460x184.png" alt="collection-startup">
+                    <h3 style="color:white" class="centered">MACHINE LEARNING</h3>
+                </div>
+
+            </div>
+    </div>
+    
+    <div align="center" class="row">
+        <p>
+            </br></br>
+            These are curated lists of high quality online videos,tagged by ClipMine's smart algorithms and editors
+            to</br>demonstrate the usefullness of ClipMine.
+            </br></br>
+        </p>
+    </div>
+
+    <div style="background-color:gainsboro"> 
+
+             <div align="center" class="row"> 
+                <div  class="col-xs-12">
+                </br></br>
+                 <h1>Who's Using ClipMine?</h1>
+                 </div>
+             </div>
+
+             <div align="center" class="row"> 
+                </br></br>
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-yc_215x94.png" alt="combinator">
+                    </div>
+
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-blackbox_215x94.png" alt="partner-blackbox">
+
+                    </div>
+
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-ucf_215x94.png" alt="university of florida">
+                    </div>
+
+             </div>
+
+              <div align="center" class="row"> 
+                </br></br>
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-bothsides_215x94.png" alt="botherside">
+                    </div>
+
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-cv_215x94.png" alt="computer vision talks">
+
+                    </div>
+
+                    <div  class="col-xs-4">
+                            <img class="img-responsive" src="partner-500startups_215x94.png" alt="fivehundred">
+                    </div>
+
+              </div>
+              
+              <div align="center" class="row"> 
+                </br></br>
+                <div  class="col-xs-12">
+                    <h4>Want to embed videos on your website?content</h4>
+                </div>
+              </div>
+
+    </div>
+
+
+
+    <div align="center" class="row">
+            </br></br></br>
+            <div  class="col-xs-12">
+                    <h1>What would you like to tag?</h1>
+             </div>
+            
+    </div>
+    <div align="center" class="row">
+        <form action="/action_page.php">
+           <div  class="col-xs-12">
+             <input type="text"  placeholder="Place a Yotube,Vimeo or Dailymotion URL" size="50">
+             <input type="submit" value="TAG NOW" >
+            </div>
+        </form>
+    
+             
+    </div>
+
+</br></br></br>
+    <div style="background-color:gainsboro"> 
+
+            <div align="center" class="row"> 
+               <div  class="col-xs-12">
+               </br></br>
+                <h3>Supported Platforms</h3>
+                </div>
+            </div>
+
+            <div align="center" class="row"> 
+                   </br></br>
+                   <div align="center" class="col-xs-4">
+                </div>
+                   <div align="center" class="col-xs-4">
+                           <img class="img-responsive" src="platforms_844x114.png" alt="platforms">
+                   </div>
+                   <div align="center" class="col-xs-4">
+                </div>
+
+
+            </div>
+        </br></br>
+    </div>
+
+
+
+
+</div>
+</body>
+</html>
